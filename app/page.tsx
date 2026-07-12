@@ -357,7 +357,7 @@ export default function Home() {
               <p>
                 Powered by{" "}
                 <a
-                  href="https://togetherai.link"
+                  href="https://togetherai.link/?utm_source=loras-dev&utm_medium=referral&utm_campaign=example-app"
                   target="_blank"
                   className="font-bold transition hover:text-blue-500"
                 >
